@@ -5,7 +5,7 @@
 ### Computer Vision
 
 [Predicting Intelligence Quotient of Children Through a Drawing Application](/cv/1)
-<img src="images/cv/1/overview.jpg?raw=true"/>
+<img src="images/cv/1/overview.png?raw=true"/>
 
 ---
 
