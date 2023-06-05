@@ -4,61 +4,61 @@
 
 ### Computer Vision
 
-[Predicting Intelligence Quotient of Children Through a Drawing Application](/cv/1)
+[Predicting Intelligence Quotient of Children Through a Drawing Application](/projects/cv/1)
 <img src="images/cv/1/overview.png?raw=true"/>
 
 ---
 
-[People Counter Application](/cv/2)
+[People Counter Application](/projects/cv/2)
 <img src="images/cv/2/interface.gif?raw=true"/>
 
 ---
 
-[Mutual Learning Approach to Distracted Driver Behavior Detection](/cv/3)
+[Mutual Learning Approach to Distracted Driver Behavior Detection](/projects/cv/3)
 <img src="images/cv/3/architecture.png?raw=true"/>
 
 ---
 
 ### Natural Language Processing
 
-[Predicting Stock Market Price Movement using NLP on Reddit Data](/nlp/1.pdf)
+[Predicting Stock Market Price Movement using NLP on Reddit Data](/projects/nlp/1.pdf)
 <img src="images/nlp/1/architecture.png?raw=true"/>
 
 #### Mini Projects
 
--   [Byte Pair Embedding](/nlp/mini/1.pdf)
--   [Minimum Edit Distance](/nlp/mini/2.md)
--   [Part of Speech Tagger](/nlp/mini/3.md)
--   [Word Embedding](/nlp/mini/4.md)
+-   [Byte Pair Embedding](/projects/nlp/mini/1.pdf)
+-   [Minimum Edit Distance](/projects/nlp/mini/2.md)
+-   [Part of Speech Tagger](/projects/nlp/mini/3.md)
+-   [Word Embedding](/projects/nlp/mini/4.md)
 
 ---
 
 ### Machine Learning
 
-[Investigating Factors Influencing Filipino Students’ Reading Literacy using Neural Networks](machine_learning/1.pdf)
+[Investigating Factors Influencing Filipino Students’ Reading Literacy using Neural Networks](/projects/machine_learning/1.pdf)
 <img src="images/machine_learning/1/feature_ranking.png?raw=true"/>
 
 #### Mini Projects
 
--   [k-Nearest Neighbors](/nlp/mini/1.md)
--   [Linear Regression](/nlp/mini/2.md)
--   [Multinomial Logistic Regression](/nlp/mini/3.pdf)
--   [Neural Networks](/nlp/mini/4.pdf)
+-   [k-Nearest Neighbors](/projects/nlp/mini/1.md)
+-   [Linear Regression](/projects/nlp/mini/2.md)
+-   [Multinomial Logistic Regression](/projects/nlp/mini/3.pdf)
+-   [Neural Networks](/projects/nlp/mini/4.pdf)
 
 ---
 
 ### Bioinformatics
 
-[Rapid SARS-CoV-2 whole-genome sequencing and analysis for informed public health decision-making in the Netherlands Technical Aspects Report](/bioinformatics/1.pdf)
+[Rapid SARS-CoV-2 whole-genome sequencing and analysis for informed public health decision-making in the Netherlands Technical Aspects Report](/projects/bioinformatics/1.pdf)
 
-[Phylogenetic Analysis of Covid Patience in the Philippines](bioinformatics/2.pdf)
+[Phylogenetic Analysis of Covid Patience in the Philippines](/projects/bioinformatics/2.pdf)
 <img src="images/bioinformatics/1/generated_phylogenetic_tree_for_philippines.png?raw=true"/>
 
 ---
 
 ### Trading
 
-[Turnaround Thursday](/trading/1.md)
+[Turnaround Thursday](/projects/trading/1.md)
 
 [Pairs Trading](https://github.com/sidnetopia/pairs-trading-strategy){:target="\_blank"}
 
@@ -70,7 +70,7 @@
 
 ### Modeling and Simulation
 
-[EDSA U-turn](modeling_simulation/1.pdf)
+[EDSA U-turn](/projects/modeling_simulation/1.pdf)
 <img src="images/modeling_simulation/1/demo.gif?raw=true"/>
 
 #### Mini Projects
@@ -82,7 +82,7 @@
 
 ### Mobile Development
 
-[Passenger Application](mobile/1.pdf)
+[Passenger Application](/projects/mobile/1.pdf)
 <img src="images/mobile/1/passenger_app.gif?raw=true"/>
 
 ---
