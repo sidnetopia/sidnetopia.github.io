@@ -1,0 +1,15 @@
+title: Sidney Guaro
+logo: '/images/logo.png?raw=true' # your photo (or logo) here
+description:
+    > # your text below (remove <br> elements if you don't need line breaks)
+    Aspiring Data Scientist/Researcher 
+    <br><br>
+
+Passionate about transforming raw data into actionable intelligence, I am an aspiring data scientist/researcher driven by relentless curiosity to uncover patterns, extract knowledge, and drive data-informed decision-making. Equipped with a strong foundation in programming and machine learning, I strive to leverage my skills to tackle complex challenges and make a tangible impact in the field. Furthermore, I highly value continuous learning as it allows me to constantly strive for knowledge and stay up-to-date as time progresses.
+    <br><br>
+    <a href="https://www.linkedin.com/in/sidney-guaro/">View My LinkedIn Profile</a>
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+    - jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
