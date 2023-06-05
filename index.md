@@ -7,12 +7,8 @@
 [Predicting Intelligence Quotient of Children Through a Drawing Application](/projects/cv/1)
 <img src="images/cv/1/overview.png?raw=true"/>
 
----
-
 [People Counter Application](/projects/cv/2)
 <img src="images/cv/2/interface.gif?raw=true"/>
-
----
 
 [Mutual Learning Approach to Distracted Driver Behavior Detection](/projects/cv/3)
 <img src="images/cv/3/architecture.png?raw=true"/>
