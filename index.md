@@ -6,19 +6,24 @@
 
 [Predicting Intelligence Quotient of Children Through a Drawing Application](/projects/cv/1)
 <img src="images/cv/1/overview.png?raw=true"/>
+<br/>
 
 [People Counter Application](/projects/cv/2)
 <img src="images/cv/2/interface.gif?raw=true"/>
+<br/>
 
 [Mutual Learning Approach to Distracted Driver Behavior Detection](/projects/cv/3)
 <img src="images/cv/3/architecture.png?raw=true"/>
 
 ---
 
+<br/>
+
 ### Natural Language Processing
 
 [Predicting Stock Market Price Movement using NLP on Reddit Data](/projects/nlp/1.pdf)
 <img src="images/nlp/1/architecture.png?raw=true"/>
+<br/>
 
 #### Mini Projects
 
@@ -29,10 +34,13 @@
 
 ---
 
+<br/>
+
 ### Machine Learning
 
 [Investigating Factors Influencing Filipino Students’ Reading Literacy using Neural Networks](/projects/machine_learning/1.pdf)
 <img src="images/machine_learning/1/feature_ranking.png?raw=true"/>
+<br/>
 
 #### Mini Projects
 
@@ -43,6 +51,8 @@
 
 ---
 
+<br/>
+
 ### Bioinformatics
 
 [Rapid SARS-CoV-2 whole-genome sequencing and analysis for informed public health decision-making in the Netherlands Technical Aspects Report](/projects/bioinformatics/1.pdf)
@@ -52,11 +62,15 @@
 
 ---
 
+<br/>
+
 ### Trading
 
 [Turnaround Thursday](/projects/trading/1.md)
+<br/>
 
 [Pairs Trading](https://github.com/sidnetopia/pairs-trading-strategy){:target="\_blank"}
+<br/>
 
 #### Mini Projects
 
@@ -64,10 +78,13 @@
 
 ---
 
+<br/>
+
 ### Modeling and Simulation
 
 [EDSA U-turn](/projects/modeling_simulation/1.pdf)
 <img src="images/modeling_simulation/1/demo.gif?raw=true"/>
+<br/>
 
 #### Mini Projects
 
@@ -76,12 +93,16 @@
 
 ---
 
+<br/>
+
 ### Mobile Development
 
 [Passenger Application](/projects/mobile/1.pdf)
 <img src="images/mobile/1/passenger_app.gif?raw=true"/>
 
 ---
+
+<br/>
 
 ### Others
 
